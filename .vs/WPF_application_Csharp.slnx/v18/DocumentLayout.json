@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\WPF_application_Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978C3C5E-5762-45B8-862D-75CB3EC76F64}|WPF_application_Csharp.csproj|c:\\users\\simon\\source\\repos\\source\\wpf_c_application\\wpf_application_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978C3C5E-5762-45B8-862D-75CB3EC76F64}|WPF_application_Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\WPF_application_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\WPF_application_Csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T20:12:54.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

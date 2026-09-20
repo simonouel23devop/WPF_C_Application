@@ -1,0 +1,14 @@
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\bin\Debug\net10.0\WPF_application_Csharp.exe
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\bin\Debug\net10.0\WPF_application_Csharp.deps.json
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\bin\Debug\net10.0\WPF_application_Csharp.runtimeconfig.json
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\bin\Debug\net10.0\WPF_application_Csharp.dll
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\bin\Debug\net10.0\WPF_application_Csharp.pdb
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\obj\Debug\net10.0\WPF_application_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\obj\Debug\net10.0\WPF_application_Csharp.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\obj\Debug\net10.0\WPF_application_Csharp.AssemblyInfo.cs
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\obj\Debug\net10.0\WPF_application_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\obj\Debug\net10.0\WPF_application_Csharp.dll
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\obj\Debug\net10.0\refint\WPF_application_Csharp.dll
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\obj\Debug\net10.0\WPF_application_Csharp.pdb
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\obj\Debug\net10.0\WPF_application_Csharp.genruntimeconfig.cache
+C:\Users\simon\source\repos\Source\WPF_C_Application\WPF_application_Csharp\obj\Debug\net10.0\ref\WPF_application_Csharp.dll
