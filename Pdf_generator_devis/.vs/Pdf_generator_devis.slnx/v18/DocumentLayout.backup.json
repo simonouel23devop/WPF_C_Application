@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|c:\\users\\simon\\source\\repos\\source\\wpf_c_application\\pdf_generator_devis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|c:\\users\\simon\\source\\repos\\source\\wpf_c_application\\pdf_generator_devis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|c:\\users\\simon\\source\\repos\\source\\wpf_c_application\\pdf_generator_devis\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|c:\\users\\simon\\source\\repos\\source\\wpf_c_application\\pdf_generator_devis\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|c:\\users\\simon\\source\\repos\\source\\wpf_c_application\\pdf_generator_devis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|c:\\users\\simon\\source\\repos\\source\\wpf_c_application\\pdf_generator_devis\\pdf_generator_devis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9629020-A164-4E11-83E3-91C3800082BD}|Pdf_generator_devis.csproj|solutionrelative:pdf_generator_devis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T20:38:39.298Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pdf_generator_devis",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Pdf_generator_devis.csproj",
+              "RelativeDocumentMoniker": "Pdf_generator_devis.csproj",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Pdf_generator_devis.csproj",
+              "RelativeToolTip": "Pdf_generator_devis.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-21T21:09:39.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T20:53:27.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAcwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T20:39:29.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-21T20:38:25.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\simon\\source\\repos\\Source\\WPF_C_Application\\Pdf_generator_devis\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T20:38:04.342Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

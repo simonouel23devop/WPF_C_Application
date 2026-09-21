@@ -1,0 +1,29 @@
+﻿namespace Pdf_generator_devis
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            GeneratePDF();
+        }
+
+        public void GeneratePDF()
+        {
+
+            // Get the current directory and create the output file path
+            string outfile = Environment.CurrentDirectory + "\\Estimate.pdf";
+            // Create a new PDF document
+            PdfDocument document = new PdfDocument();
+            PdfWriter.GetInstance(document, new FileStream(outfile, FileMode.Create));
+            document.Open();
+
+
+        }
+
+    }
+}

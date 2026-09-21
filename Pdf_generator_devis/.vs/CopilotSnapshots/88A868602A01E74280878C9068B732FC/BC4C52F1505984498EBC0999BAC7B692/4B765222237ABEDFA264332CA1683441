@@ -1,0 +1,55 @@
+﻿using System.Diagnostics;
+using System.IO;
+using iTextSharp.text;
+using iTextSharp.text.pdf;
+
+namespace Pdf_generator_devis
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            GeneratePDF();
+        }
+
+        public void GeneratePDF()
+        {
+            // Get the current directory and create the output file path
+            string outfile = Path.Combine(Environment.CurrentDirectory, "Estimate.pdf");
+
+            // Create a new PDF document using iTextSharp
+            Document document = new Document();
+            using (var stream = new FileStream(outfile, FileMode.Create))
+            {
+                PdfWriter.GetInstance(document, stream);
+                document.Open();
+
+                BaseColor blue = new BaseColor(0, 75, 155);
+                BaseColor gris = new BaseColor(240, 240, 240);
+                BaseColor blanc = new BaseColor(255, 255, 255);
+
+                iTextSharp.text.Font policetitre = iTextSharp.text.FontFactory.GetFont("Helvetica", 20, iTextSharp.text.Font.BOLD, new iTextSharp.text.BaseColor(0, 0, 0));
+
+                Paragraph p1 = new Paragraph("Estimate",mesinfos.text, policetitre);
+                p1.Alignment = Element.ALIGN_LEFT;
+                document.Add(p1);
+
+                Paragraph p2 = new Paragraph("Client Information", client.text, policetitre);
+                p2.Alignment = Element.ALIGN_RIGHT;
+                document.Add(p2);
+
+                Paragraph p3 = new Paragraph("Devis", titre.text, policetitre);
+                p3.Alignment = Element.ALIGN_LEFT;
+                document.Add(p3);
+
+                document.Close();
+                Process.Start(@"cmd.exe", @"/c " + outfile);
+            }
+        }
+    }
+}
