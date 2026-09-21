@@ -1,0 +1,26 @@
+﻿using System;
+
+namespace App
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string name;
+            int age;
+            float score;
+            bool active = false;
+
+            name = "simon";
+            age = 30;
+            score = 95.5f;
+
+            Console.WriteLine($"Hello, {name}!");
+            Console.WriteLine($"Age: {age}, Score: {score}, Active: {active}");
+
+        }
+    }
+}
+
+
+

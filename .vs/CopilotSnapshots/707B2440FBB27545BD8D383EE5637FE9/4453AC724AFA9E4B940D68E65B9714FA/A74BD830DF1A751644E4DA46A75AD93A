@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace App
+{
+    class Program
+    {
+        static void Main(string[] args)
+            
+            string name;
+            int age;
+            float score;
+            bool active = false;
+        
+            name = "simon";
+            Console.WriteLine("Hello" + name);
+        
+    }
+}
+
+
+

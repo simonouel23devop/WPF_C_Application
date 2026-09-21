@@ -12,15 +12,7 @@ namespace App
             bool active = false;
 
             name = "simon";
-
-            Console.Write("Enter a number for age: ");
-            string input = Console.ReadLine();
-            if (!int.TryParse(input, out age))
-            {
-                Console.WriteLine("Invalid input. Using default age 30.");
-                age = 30;
-            }
-
+            age = 30;
             score = 95.5f;
 
             Console.WriteLine("Hello, " + name + "!");
